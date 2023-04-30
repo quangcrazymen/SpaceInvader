@@ -1,0 +1,1 @@
+**Space Invader** game made by SFML. Over-engineered project, failed miserably, need to make different version from scratch (I guess)
